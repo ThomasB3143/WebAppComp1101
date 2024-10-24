@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(66, 0, 0);
+    color: whitesmoke;
+}
+h1 {
+    background-color: black;
+    color: whitesmoke;
+    border-color: whitesmoke;
+    border: 10;
+    border-style: solid;
+
+    text-align: center;
+    font-size: 60px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro{
+}
+.Table1{
+    width: 100%;
+    overflow: auto;
+    clear: both;
+}
+.Table1 div{
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    background-color: black;
+    color: whitesmoke;
+    border-color: whitesmoke;
+    border: 10;
+    border-style: solid;
+}
+.Table2{
+    width: 100%;
+    overflow: auto;
+    clear: both;
+}
+.Table2 div{
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    background-color: black;
+    color: whitesmoke;
+    border-color: whitesmoke;
+    border: 10;
+    border-style: solid;
+}
