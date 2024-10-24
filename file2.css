@@ -15,12 +15,23 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
-.intro{
+h2 {
+    background-color: black;
+    color: whitesmoke;
+    border-color: whitesmoke;
+    border: 10;
+    border-style: solid;
+
+    text-align: center;
+    font-size: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .Table1{
-    width: 100%;
+    max-width: 870px;
     overflow: auto;
-    clear: both;
+    float: left;
 }
 .Table1 div{
     width: 200px;
@@ -34,20 +45,16 @@ h1 {
     border: 10;
     border-style: solid;
 }
-.Table2{
-    width: 100%;
-    overflow: auto;
-    clear: both;
-}
-.Table2 div{
-    width: 200px;
-    height: 300px;
+.desc1{
+    min-width: 200px;
+    width: 400px;
+    height: 500px;
     padding: 20px;
     margin: 20px;
-    float: left;
     background-color: black;
     color: whitesmoke;
     border-color: whitesmoke;
     border: 10;
     border-style: solid;
+    float: left;
 }
